@@ -38,9 +38,6 @@ public class Color extends JFrame {
 		});
 	}
 
-	/**
-	 * Create the frame.
-	 */
 	public Color() {
 		
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
