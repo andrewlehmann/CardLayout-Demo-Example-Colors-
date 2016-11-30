@@ -10,12 +10,10 @@ import java.awt.event.ActionEvent;
 
 public class Red extends JPanel {
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 
 	public Red(colors.Color frame) {
+		
 		setBackground(Color.RED);
 		setLayout(null);
 		
