@@ -10,14 +10,8 @@ import java.awt.event.ActionEvent;
 
 public class Green extends JPanel {
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 
-	/**
-	 * Create the panel.
-	 */
 	public Green(colors.Color frame) {
 		setBackground(Color.GREEN);
 		setLayout(null);
