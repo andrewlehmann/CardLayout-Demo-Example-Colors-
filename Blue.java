@@ -9,15 +9,11 @@ import javax.swing.JButton;
 import javax.swing.JPanel;
 
 public class Blue extends JPanel {
-	/**
-	 * 
-	 */
+	
 	private static final long serialVersionUID = 1L;
 
-	/**
-	 * Create the panel.
-	 */
 	public Blue(colors.Color frame) {
+		
 		setBackground(Color.BLUE);
 		setLayout(null);
 		
