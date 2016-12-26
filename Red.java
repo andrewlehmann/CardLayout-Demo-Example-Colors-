@@ -28,7 +28,5 @@ public class Red extends JPanel {
 		});
 		btnNextColor.setBounds(173, 138, 104, 23);
 		add(btnNextColor);
-
 	}
-
 }
