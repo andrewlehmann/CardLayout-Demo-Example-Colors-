@@ -27,7 +27,5 @@ public class Green extends JPanel {
 		});
 		btnNextColor.setBounds(176, 138, 103, 23);
 		add(btnNextColor);
-
 	}
-
 }
