@@ -2,7 +2,6 @@ package colors;
 
 import java.awt.CardLayout;
 import java.awt.EventQueue;
-
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
@@ -47,5 +46,4 @@ public class Color extends JFrame {
 		Cards.setLayout(new CardLayout(0, 0));
 		setContentPane(Cards);
 	}
-
 }
