@@ -28,7 +28,5 @@ public class Blue extends JPanel {
 		});
 		btnNextColor.setBounds(174, 138, 102, 23);
 		add(btnNextColor);
-
 	}
-
 }
